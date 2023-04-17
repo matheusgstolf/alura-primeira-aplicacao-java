@@ -15,7 +15,7 @@ public class Main {
         sinopse = """
                     Filme: %s,
                     Média de avaliação: %.2f
-                    Filme de ação, muito bom que revoltou a porra de todas as feministas sem motivo.
+                    Filme de ação, muito bom que revoltou a pessoas sem motivo.
                   """.formatted(filme, media);
         System.out.println(sinopse);
 
